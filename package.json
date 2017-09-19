@@ -1,0 +1,22 @@
+{
+  "name": "c-automated-ads-l",
+  "version": "1.0.0",
+  "description": "automated advertising",
+  "main": "loginTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gherrer1/CAAL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gherrer1/CAAL/issues"
+  },
+  "homepage": "https://github.com/Gherrer1/CAAL#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
